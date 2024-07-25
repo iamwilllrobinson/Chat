@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iamwilllrobinson/Chat/static/css/main.1dd3114b.css",
+    "main.js": "/iamwilllrobinson/Chat/static/js/main.8d663d27.js",
+    "static/js/787.cda612ba.chunk.js": "/iamwilllrobinson/Chat/static/js/787.cda612ba.chunk.js",
+    "static/media/backGroundImageForHomePage.jpg": "/iamwilllrobinson/Chat/static/media/backGroundImageForHomePage.990b59176b7b21e87674.jpg",
+    "index.html": "/iamwilllrobinson/Chat/index.html",
+    "main.1dd3114b.css.map": "/iamwilllrobinson/Chat/static/css/main.1dd3114b.css.map",
+    "main.8d663d27.js.map": "/iamwilllrobinson/Chat/static/js/main.8d663d27.js.map",
+    "787.cda612ba.chunk.js.map": "/iamwilllrobinson/Chat/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dd3114b.css",
+    "static/js/main.8d663d27.js"
+  ]
+}
